@@ -1,0 +1,25 @@
+﻿body {
+    background: lightgrey;
+}
+
+.news-header {
+    padding: 4rem 2rem 9rem 2rem;
+    background: #2c3e50;
+    color: white;
+}
+
+.news-header-text {
+    /*border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    padding: 1rem 0 1rem 0;*/
+}
+
+.news-header h1 {
+    font-size: 3.5rem;
+}
+
+.news-body-details {
+    background: white;
+    padding: 2rem;
+    margin-top: -5rem;
+}

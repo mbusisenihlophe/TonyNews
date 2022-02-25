@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TheBestNewBlog\DataContext\bin\Debug\DataContext.dll.config
+C:\Users\User\source\repos\TheBestNewBlog\DataContext\bin\Debug\DataContext.dll
+C:\Users\User\source\repos\TheBestNewBlog\DataContext\bin\Debug\DataContext.pdb
+C:\Users\User\source\repos\TheBestNewBlog\DataContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\TheBestNewBlog\DataContext\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\TheBestNewBlog\DataContext\obj\Debug\DataContext.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TheBestNewBlog\DataContext\obj\Debug\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TheBestNewBlog\DataContext\obj\Debug\DataContext.csproj.CopyComplete
+C:\Users\User\source\repos\TheBestNewBlog\DataContext\obj\Debug\DataContext.dll
+C:\Users\User\source\repos\TheBestNewBlog\DataContext\obj\Debug\DataContext.pdb

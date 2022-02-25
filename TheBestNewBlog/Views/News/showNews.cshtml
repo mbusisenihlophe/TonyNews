@@ -1,0 +1,40 @@
+﻿@model TheBestNewBlog.Models.NewsModel
+
+@{
+    ViewBag.Title = "showNews";
+}
+
+
+
+<article>
+    <section class="news-header text-centery">
+        <div class="container">
+            <div class="row">
+                <div class="news-header-text">
+                    <div class="col-md-10 offset-md-1">
+                        <h1>@Model.Tittle</h1>
+                        <p>Published by: Tony Mthembu on @DateTime.Today.ToString("yyyy-MM-dd")<p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </section>
+
+    <section class="news-body">
+        <div class="container">
+            <div class="col-md-10 offset-md-1">
+                <div class="news-body-details">
+                    @Model.Content
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+
+</article>
+
+
+
+
